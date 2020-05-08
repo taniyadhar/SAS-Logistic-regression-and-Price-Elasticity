@@ -1,4 +1,4 @@
-# SAS-Statistical Analysis System
+# SAS (Statistical Analysis System) Project
 Goal of the Project:
 The goal of the project was to analyze the given information and present the insights along with recommendations to improve sales of the coffee brand called “Hills Brothers”. The interpretations have been drawn by running various models taught in class on the provided data.
 Objective of the project:
